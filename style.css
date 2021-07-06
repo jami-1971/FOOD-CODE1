@@ -77,10 +77,10 @@ p{
     padding-right: 3%;
 }
 image1{
-    width: 50%
+    width: 33.33%
 }
 #footer{
-    background-color: darkred
+    background-color: black;
     font-family: monospace;
     color: chartreuse;
     text-align: center;
