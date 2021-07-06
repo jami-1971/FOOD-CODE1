@@ -38,7 +38,7 @@ p{
     background-color: black;
     padding: 10px 40px;
     color: chartreuse;
-    border-radius: 5px;
+    border-radius: 15px;
     background-image: linear-gradient(black,chocolate);
     font-weight: 700;
 }
@@ -80,9 +80,10 @@ image1{
     width: 50%
 }
 #footer{
-    background-color: blue;
+    background-color: darkred
     font-family: monospace;
     color: chartreuse;
+    text-align: center;
 }
 .extra{
     width: 33.33%;
