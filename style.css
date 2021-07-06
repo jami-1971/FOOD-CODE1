@@ -80,10 +80,9 @@ image1{
     width: 33.33%
 }
 #footer{
-    color: white;
-    background-color: black;
+    color: yellow;
+    background-color: orangered;
     font-family: monospace;
-    color: chartreuse;
     text-align: center;
 }
 .extra{
