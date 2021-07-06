@@ -80,6 +80,7 @@ image1{
     width: 33.33%
 }
 #footer{
+    color: white;
     background-color: black;
     font-family: monospace;
     color: chartreuse;
