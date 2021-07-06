@@ -79,3 +79,11 @@ p{
 image1{
     width: 50%
 }
+#footer{
+    background-color: blue;
+    font-family: monospace;
+    color: chartreuse;
+}
+.extra{
+    width: 33.33%;
+}
