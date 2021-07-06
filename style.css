@@ -69,8 +69,8 @@ p{
     height: 6cm;
 }
 #follow{
-    box-shadow: 20px 20px 10px gray;
-    border-radius:10px ;
+    box-shadow: 17px 17px 10px gray;
+    border-radius:8px ;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 3%;
@@ -87,4 +87,5 @@ image1{
 }
 .extra{
     width: 33.33%;
+    padding-left: 10%;
 }
