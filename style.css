@@ -27,6 +27,8 @@ p{
 }
 .half-width img{
     width: 80%;
+    width: 5cm;
+    height: 5cm;
 }
 .link-button{
     text-decoration: chartreuse;
