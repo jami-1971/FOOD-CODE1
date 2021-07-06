@@ -42,16 +42,22 @@ p{
     background-image: linear-gradient(black,chocolate);
     font-weight: 700;
 }
-.link-button1{
-    text-decoration: chartreuse;
-    padding: 10px 40px;
-    color: chartreuse;
-    border-radius: 5px;
-    background-image: linear-gradient(white yellow);
-    font-weight: 700;
-}
+
 #mid-banner{
     background-image: url(hi.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#recipe{
+    text-align: center;
+    font-family: fantasy;
+}
+experience-things{
+    box-shadow: 10px 10px 50px blue;
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    
 }
