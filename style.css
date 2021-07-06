@@ -56,6 +56,7 @@ p{
 }
 .experience-things{
     box-shadow: 10px 10px 50px gray;
+    border-radius: 6px;
     width: 33.33%;
     margin-left: 5%;
     margin-right: 5%;
@@ -66,4 +67,15 @@ p{
 .image{
     width: 6cm;
     height: 6cm;
+}
+#follow{
+    box-shadow: 20px 20px 10px gray;
+    border-radius: 6px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+image1{
+    width: 33.33%;
 }
