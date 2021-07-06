@@ -6,6 +6,9 @@ h1{
     font-size: 60px;
     color: black;
 }
+h2{
+    font-size: 40px;
+}
 
 span{
     color: gold;
@@ -37,5 +40,14 @@ p{
     color: chartreuse;
     border-radius: 5px;
     background-image: linear-gradient(black,chocolate);
+    font-weight: 700;
+}
+.link-button1{
+    text-decoration: chartreuse;
+    background-color: black;
+    padding: 10px 40px;
+    color: chartreuse;
+    border-radius: 5px;
+    background-image: linear-gradient(white yellow);
     font-weight: 700;
 }
